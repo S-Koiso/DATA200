@@ -10,3 +10,4 @@
 
 |22| Logistic Regression I|
 |23| Logistic Regression II and Classification|
+|24| Decision Tree|
