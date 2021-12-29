@@ -11,7 +11,13 @@
 |7 | Regular Expressions|
 |8 | SQL I|
 |9 | SQL II|
-
+|10| Visualization I|
+|11| Visualization II|
+|12| Modeling|
+|13| Simple Linear Regression|
+|14| Ordinary Least Squares|
+|15| Modeling in Contex (No Notebook)|
+|16| Feature Engineering|
 
 |22| Logistic Regression I|
 |23| Logistic Regression II and Classification|
