@@ -7,6 +7,11 @@
 |3 | Data Sampling and Probability II (No Notebook)|
 |4 | Pandas I|
 |5 | Pandas II|
+|6 | Data Cleaning and EDA (Notebook is optional)|
+|7 | Regular Expressions|
+|8 | SQL I|
+|9 | SQL II|
+
 
 |22| Logistic Regression I|
 |23| Logistic Regression II and Classification|
