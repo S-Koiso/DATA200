@@ -27,3 +27,5 @@
 |23| Logistic Regression II and Classification|
 |24| Decision Tree|
 |25| Inference for Modeling|
+|26| Clustering|
+|27| (Guest Lecture) Social Cost of Carbon|
