@@ -28,4 +28,4 @@
 |24| [Decision Tree](https://github.com/S-Koiso/DATA200/tree/main/lec/lec24_DecisionTree)|
 |25| [Inference for Modeling](https://github.com/S-Koiso/DATA200/tree/main/lec/lec25_Inference4Modeling)|
 |26| [Clustering](https://github.com/S-Koiso/DATA200/tree/main/lec/lec26_Clustering)|
-|27| (Guest Lecture) Social Cost of Carbon (Omitted)|
+|27| (Guest Lecture) [Social Cost of Carbon](https://github.com/S-Koiso/DATA200/tree/main/lec/lec27_SocialCostofCarbon)|
